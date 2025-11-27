@@ -1,17 +1,7 @@
-# Sample Background Image Packs
+# Sample Background Image Galleries
 
-Preview galleries for each background pack.
+Preview galleries for each batch (by size and category).
 
-- [Pack 196](196/)
-- [Pack 195](195/)
-- [Pack 194](194/)
-- [Pack 193](193/)
-- [Pack 192](192/)
-- [Pack 191](191/)
-- [Pack 190](190/)
-- [Pack 189](189/)
-- [Pack 188](188/)
-- [Pack 187](187/)
-- [Pack 186](186/)
-- [Pack 185](185/)
-- [Pack 184](184/)
+- [20251124-20251130](20251124-20251130/)
+- [20251117-20251123](20251117-20251123/)
+- [20251110-20251116](20251110-20251116/)
